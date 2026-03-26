@@ -22,7 +22,3 @@ This project analyzes user behavior across a marketing funnel to identify conver
 - Offer discounts at cart stage
 - Optimize checkout process
 - Retarget users who abandon carts
-
-## Files
-- TASK3.pbix
-- Task3_Dashboard.pdf
